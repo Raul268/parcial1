@@ -1,0 +1,13 @@
+body{
+	background:#ccc;
+}
+h1{
+	color: red;
+}
+ul.especial li:nth-child(1) {color: blue; font-size: 100%;}
+ul.especial li:nth-child(2) {color: orange; font-size: 140%;}
+ul.especial li:nth-child(3) {color: yellow; font-size: 180%;}
+ul.especial li:nth-child(4) {color: green; font-size: 220%;}
+ul.especial li:nth-child(5) {color: purple; font-size: 260%;}
+ul.especial li:nth-child(6) {color: cyan; font-size: 300%;}
+ul.especial li:nth-child(7) {color: red; font-size: 340%;}

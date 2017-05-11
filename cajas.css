@@ -1,0 +1,17 @@
+body{
+	margin: 100px 10px;
+	padding: 100px 50px;
+	border-top: 4px solid blue;
+	border-right: 8px solid red;
+	border-bottom: 12px solid orange;
+	border-left: 16px solid magenta;
+}
+h1 {
+	background:#ffc;
+	border: 1px solid red;
+	margin: 20px;
+	padding: 50px;
+}
+span{
+	background:#dff0d8;
+}
